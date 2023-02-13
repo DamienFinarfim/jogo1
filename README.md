@@ -1,6 +1,6 @@
-### Jogo de Helicóptero
+### Helicopter game
 
-#### Foi construido um jogo de helicóptero utilizando o JavaScript.
-#### O jgo possui comandos simples de subir, descer e disparar misseis.
-#### Possui barra de vida na parte superior a direita.
-#### O objetivo é resgatar os refugiados antes do caminhão atropelar e ao mesmo tempo destruindo os inimigos ou esquivar deles.
+#### A helicopter game was built using JavaScript.
+#### The game has simple commands to go up, down and shoot missiles.
+#### It has a life bar at the top right.
+#### The objective is to rescue the refugees before the truck runs over them and at the same time destroying the enemies or dodging them.
